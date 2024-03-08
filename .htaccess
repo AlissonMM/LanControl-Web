@@ -1,0 +1,11 @@
+# Primeiro é ativado o suporte à reescrita
+# As condições não são aplicadas para files nem diretories
+# url.com.br/diabo/diabos --> url.com.br/index.php?ci=diabo/diabos/
+
+
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+ReWriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+
+Options -Indexes

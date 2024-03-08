@@ -1,0 +1,5 @@
+azul:2d8bba
+cinza:2e2e2e
+ciano:5acbd7
+ciano escuro:399bb8
+ciano mais escuro:296684

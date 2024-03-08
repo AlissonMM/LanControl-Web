@@ -1,0 +1,26 @@
+.objetivo{
+    background-color: #2e2e2e;
+    max-width: 940px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.objetivo h2{
+    color: white;
+}
+
+#tec{
+    width: 500px;
+}
+
+.wol{
+    margin: 0 auto;
+    max-width: 940px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}

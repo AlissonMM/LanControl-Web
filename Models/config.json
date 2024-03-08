@@ -1,0 +1,9 @@
+{
+    "driver": "mysql",
+    "host": "localhost",
+    "db": "lancontrol_bd",
+    "port": 3306,
+    "charset": "utf8mb4",
+    "user": "root",
+    "pass": "root"
+}
